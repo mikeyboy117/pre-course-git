@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04A15BE8-2838-48BD-B15A-124FA4F65CA3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>pre-course-git</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>95568EA0-6356-4643-A22E-CD90C893CD29</key>
+		<string>url.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>code/pre-course-git/pre-course-git.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>95568EA0-6356-4643-A22E-CD90C893CD29</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>url.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>95568EA0-6356-4643-A22E-CD90C893CD29</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>95568EA0-6356-4643-A22E-CD90C893CD29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pre-course-git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
